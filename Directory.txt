@@ -1,0 +1,8 @@
+/data/data/com.termux/files/home/rog/kernel/printk/printk.c
+/data/data/com.termux/files/home/rog/include/linux/blkdev.h
+/data/data/com.termux/files/home/rog/arch/arm64/kernel/debug-monitors.c
+/data/data/com.termux/files/home/rog/arch/arm64/boot/dts/qcom/sm8150-gpu.dtsi
+/data/data/com.termux/files/home/rog/kernel/sched/core.c
+/data/data/com.termux/files/home/rog/block/blk-mq.c
+core 1/data/data/com.termux/files/home/rog/drivers/mmc/core/core.c
+/data/data/com.termux/files/home/rog/mm/slub.c
