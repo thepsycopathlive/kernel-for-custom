@@ -225,7 +225,6 @@ CONFIG_HAVE_PERF_EVENTS=y
 #
 # Kernel Performance Events And Counters
 #
-CONFIG_ADRENO_IDLER=y
 CONFIG_PERF_EVENTS=y
 # CONFIG_PERF_USER_SHARE is not set
 # CONFIG_DEBUG_PERF_USE_VMALLOC is not set
