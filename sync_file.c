@@ -192,7 +192,8 @@ static void add_fence(struct dma_fence **fences,
  * @a and @b.  @a and @b remain valid, independent sync_file. Returns the
  * new merged sync_file or NULL in case of error.
  */
- static struct sync_file *sync_file_merge(struct sync_file *a, 
+ static struct sync_file *sync_file_merge(struct sync_file *a,
+					 struct sync_file *b)
 {
 	struct sync_file *sync_file;
 	struct dma_fence **fences, **nfences, **a_fences, **b_fences;
